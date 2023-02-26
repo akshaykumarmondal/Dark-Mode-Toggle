@@ -19,6 +19,7 @@ function updateBody(){
         body.style.backgroundColor='black';
         labelEl.style.backgroundColor='white';
         circleEl.style.backgroundColor='lightgrey';
+        circleEl.style.border='1px solid black';
     }
     else{
 
